@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kylvowray6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...software development 
+- 🌱 I’m currently learning ...low level programming and machine learning 
 - 📫 How to reach me ...
+- via email
+- kylvowray6@gmail.com
 
-<!---
-kylvowray6/kylvowray6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
